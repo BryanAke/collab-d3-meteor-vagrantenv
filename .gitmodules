@@ -1,0 +1,3 @@
+[submodule "collab-d3-meteor"]
+	path = collab-d3-meteor
+	url = git@github.com:BryanAke/collab-d3-meteor.git
